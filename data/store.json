@@ -1,0 +1,84 @@
+{
+  "admin": {
+    "passwordHash": "f2a2514339f7992c9f055ebc41908e6574885248b41a38112f1cf83f38c254e08198360fa76e24dc8ea32f52f84f6990a3798a860ae1a93ac82a2769b293daff"
+  },
+  "settings": {
+    "whatsappNumber": "258871570592",
+    "instagram": "",
+    "facebook": "",
+    "tiktok": "",
+    "slogan": "Tecnologia, jogos e entretenimento ao melhor preço.",
+    "announcement": "",
+    "theme": "red",
+    "wallpaper": ""
+  },
+  "clients": [],
+  "orders": [],
+  "products": [
+    {
+      "id": 1,
+      "title": "Grand Theft Auto V",
+      "category": "jogos",
+      "price": 500,
+      "platform": "PC Digital",
+      "description": "Jogo de ação em mundo aberto.",
+      "stock": 10,
+      "sold": 0,
+      "discount": 0,
+      "announcement": false,
+      "active": true
+    },
+    {
+      "id": 2,
+      "title": "NBA 2K23",
+      "category": "jogos",
+      "price": 600,
+      "platform": "PC Digital",
+      "description": "Simulação de basquetebol.",
+      "stock": 10,
+      "sold": 0,
+      "discount": 0,
+      "announcement": false,
+      "active": true
+    },
+    {
+      "id": 3,
+      "title": "Avatar: O Caminho da Água",
+      "category": "filmes",
+      "price": 150,
+      "platform": "Full HD",
+      "description": "Filme digital.",
+      "stock": 20,
+      "sold": 0,
+      "discount": 0,
+      "announcement": false,
+      "active": true
+    },
+    {
+      "id": 4,
+      "title": "Stranger Things",
+      "category": "series",
+      "price": 300,
+      "platform": "Série Completa",
+      "description": "Temporadas disponíveis.",
+      "stock": 20,
+      "sold": 0,
+      "discount": 0,
+      "announcement": false,
+      "active": true
+    },
+    {
+      "id": 5,
+      "title": "Adobe Photoshop CC 2024",
+      "category": "apps",
+      "price": 800,
+      "platform": "Licença PC",
+      "description": "Aplicação digital.",
+      "stock": 5,
+      "sold": 0,
+      "discount": 0,
+      "announcement": false,
+      "active": true
+    }
+  ]
+}
